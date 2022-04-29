@@ -66,7 +66,3 @@ Welcome to the **RPA Bots Project**! This repository contains various RPA bots d
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to make any additional changes if needed!
