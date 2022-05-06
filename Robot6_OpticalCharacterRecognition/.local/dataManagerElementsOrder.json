@@ -1,0 +1,32 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SumSales&Sequence_1",
+        "BotRunTime&Sequence_1",
+        "ExtractedDate&Sequence_2",
+        "DateFormat&Sequence_2",
+        "Sale&Sequence_2",
+        "Price&Sequence_2",
+        "ExtractedAmt&Sequence_2",
+        "ExtractedTransactionID&Sequence_2",
+        "EightDigits&Sequence_2",
+        "ExtractedReceiptID&Sequence_2",
+        "AllPdfText&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
